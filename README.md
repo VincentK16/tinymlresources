@@ -1,4 +1,4 @@
-# Getting Started with TinyMl - Resourses List
+# Getting Started with TinyML - Resourses List
 
 1. [Everything About TinyML – Basics, Courses, Projects & More! by Seeed Studio](https://www.seeedstudio.com/blog/2021/06/14/everything-about-tinyml-basics-courses-projects-more/)
 ![tinymlseeed](https://user-images.githubusercontent.com/3338753/141981705-578a5bff-0341-4066-9965-5559d896979d.png)
