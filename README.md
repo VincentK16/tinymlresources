@@ -19,7 +19,8 @@
 
 7. [TinyMLedu, The Tiny Machine Learning Open Education Initiative](http://tinyml.seas.harvard.edu/)
 
-## Community
+## Communities
 1. [Seeed's Studio Discord Channel](https://discord.gg/t7azh9uP2x)
+2. [Embedded System Professionals Discord Channel](https://discord.gg/U9VxMpm7eG)
 
   ![download](https://user-images.githubusercontent.com/3338753/141984977-425b5328-bf4a-4094-a0b5-3afaf25e3da3.png)
